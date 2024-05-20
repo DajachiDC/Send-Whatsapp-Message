@@ -8,11 +8,16 @@
 ## ❌ Important ❌
 Before running de file, login in to Whatsapp Web.
 
-## Command to run the file in Linux:
+## Command to run the file in Linux and Windows:
+### Linux:
 ```
 python3 enviarMensajesWhatsapp.py
 ```
 
+### Windows:
+```
+python enviarMensajesWhatsapp.py
+```
 
 ## Translation - Spanish
 
@@ -26,7 +31,13 @@ python3 enviarMensajesWhatsapp.py
 ## ❌ Importante ❌
 Antes de ejecutar el archivo, inicia sesión en WhatsApp Web.
 
-## Comando para ejecutar el archivo en Linux:
+## Comando para ejecutar el archivo en Linux y Windows:
+### Linux:
 ```
 python3 enviarMensajesWhatsapp.py
+```
+
+### Windows:
+```
+python enviarMensajesWhatsapp.py
 ```
