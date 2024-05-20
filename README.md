@@ -14,7 +14,7 @@ python3 enviarMensajesWhatsapp.py
 ```
 
 
-## Translation
+## Translation - Spanish
 
 ## Enviar Mensaje de WhatsApp
 
