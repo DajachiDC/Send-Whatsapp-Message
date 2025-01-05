@@ -10,7 +10,8 @@
 ## ❌ Important ❌
 Before running de file, login in to Whatsapp Web.
 
-## ⛔ Last update: 4/01/2025
+## ⛔ Last update:
+> 4/01/2025
 
 ## Command to run the file in Linux and Windows:
 ### Linux:
@@ -35,7 +36,8 @@ python enviarMensajesWhatsapp.py
 ## ❌ Importante ❌
 Antes de ejecutar el archivo, inicia sesión en WhatsApp Web.
 
-## ⛔ Ultima actualización: 4/01/2025
+## ⛔ Ultima actualización:
+> 4/01/2025
 
 ## Comando para ejecutar el archivo en Linux y Windows:
 ### Linux:
